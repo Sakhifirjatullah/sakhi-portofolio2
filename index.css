@@ -81,6 +81,8 @@ margin: 100px; */
     background-color: rgb(143, 139, 81);
     } */
     @import url('https://fonts.googleapis.com/css2?family=Cherish&display=swap');
+    
+
     .toples-permen.pertama>.permen-merah {
         color: rgb(17, 16, 16);
         margin: auto;
@@ -88,6 +90,7 @@ margin: 100px; */
         height: 100px;
         font-size: 20px;
         font-family: 'Cherish', cursive;
+        text-shadow: 3px 3px 5px red;
       
         
         @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Indie+Flower&display=swap');  
